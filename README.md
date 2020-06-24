@@ -121,6 +121,10 @@ Twitter: [ni0rr](https://twitter.com/ni0rr)
 
 Discord: nj0rr#5645
 
+## Viẹtnamese
+### iTer99
+Twitter: [@ngthienhoan](https://twitter.com/ngthienhoan)
+
 [ST]: https://twitter.com/SparkDev_ "Spark's Twitter"
 [JJT]: https://twitter.com/JJGadgets "JJ's Twitter"
 [PONCE54958]: https://twitter.com/PONCE54958 "PONCE54958's Twitter"
