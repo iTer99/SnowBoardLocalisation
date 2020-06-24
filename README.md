@@ -121,7 +121,7 @@ Twitter: [ni0rr](https://twitter.com/ni0rr)
 
 Discord: nj0rr#5645
 
-## Viẹtnamese
+## Vietnamese
 ### iTer99
 Twitter: [@ngthienhoan](https://twitter.com/ngthienhoan)
 
