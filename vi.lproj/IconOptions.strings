@@ -1,14 +1,12 @@
-{
-    "CLEAR_ALTERNATIVE_ICONS" = "Xo\U00e1 bi\U1ec3u t\U01b0\U1ee3ng thay th\U1ebf";
-    "CUSTOM_CORNER_RADIUS" = "Thay \U0111\U1ed5i g\U00f3c bi\U1ec3u t\U01b0\U1ee3ng";
-    "CUSTOM_ICON_SCALE" = "Thay \U0111\U1ed5i k\U00edch c\U1ee1 bi\U1ec3u t\U01b0\U1ee3ng";
-    "FORCE_3X_ICONS" = "Bu\U1ed9c bi\U1ec3u t\U01b0\U1ee3ng 3x";
-    "FORCE_LEGACY" = "Bu\U1ed9c t\U01b0\U01a1ng th\U00edch";
-    "FORCE_REFRESH" = "Bu\U1ed9c l\U00e0m m\U1edbi";
-    "HIDE_ICON_TOUCH_OVERLAYS" = "\U1ea8n l\U1edbp ph\U1ee7 ch\U1ea1m v\U00e0o bi\U1ec3u t\U01b0\U1ee3ng";
-    "HIDE_LABELS" = "\U1ea8n t\U00ean";
-    "HIDE_LABEL_DOTS" = "\U1ea8n d\U1ea5u ch\U1ea5m";
-    "HIDE_POPUP_LABEL" = "Kh\U00f4ng hi\U1ec7n c\U1eeda s\U1ed5 \U00c1p d\U1ee5ng";
-    "ICON_OPTIONS" = "Tu\U1ef3 ch\U1ec9nh bi\U1ec3u t\U01b0\U1ee3ng";
-    "SCALE_BADGES" = "\U00c1p d\U1ee5ng v\U1edbi ph\U00f9 hi\U1ec7u";
-}
+CUSTOM_CORNER_RADIUS = "Thay đổi bo tròn biểu tượng";
+CUSTOM_ICON_SCALE = "Thay đổi kích cỡ biểu tượng";
+HIDE_LABELS = "Ẩn tên";
+HIDE_LABEL_DOTS = "Ẩn dấu chấm";
+HIDE_ICON_TOUCH_OVERLAYS = "Ẩn lớp chạm biểu tượng";
+FORCE_LEGACY = "Buộc tương thích kiểu cũ";
+CLEAR_ALTERNATIVE_ICONS = "Xóa các biểu tượng thay thế";
+FORCE_REFRESH = "Buộc làm mới";
+ICON_OPTIONS = "Tùy chỉnh biểu tượng";
+FORCE_3X_ICONS = "Buộc biểu tượng 3x";
+HIDE_POPUP_LABEL = "Không hiển cửa sổ Áp dụng";
+SCALE_BADGES = "Tỉ lệ phù hiệu với biểu tượng";
