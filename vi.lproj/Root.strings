@@ -1,8 +1,6 @@
-{
-    ENABLED = "K\U00edch ho\U1ea1t";
-    "FOLLOW_DENNIS" = "Theo d\U00f5i @DennisBednarz";
-    "FOLLOW_SPARK" = "Theo d\U00f5i @SparkDev_";
-    "ICON_OPTIONS" = "Tu\U1ef3 ch\U1ec9nh bi\U1ec3u t\U01b0\U1ee3ng...";
-    "ICON_SETTINGS" = "C\U00e0i \U0111\U1eb7t bi\U1ec3u t\U01b0\U1ee3ng";
-    "SELECT_THEME" = "Ch\U1ecdn ch\U1ee7 \U0111\U1ec1...";
-}
+ICON_SETTINGS = "Cài đặt";	
+ENABLED = "Kích hoạt";	
+SELECT_THEME = "Chọn chủ đề...";	
+ICON_OPTIONS = "Tùy chỉnh biểu tượng...";	
+FOLLOW_SPARK = "Theo dõi @SparkDev_";	
+FOLLOW_DENNIS = "Theo dõi @DennisBednarz";
