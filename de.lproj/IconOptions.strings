@@ -1,9 +1,0 @@
-CUSTOM_CORNER_RADIUS = "Benutzerdefinierte Symboleckengröße";
-CUSTOM_ICON_SCALE = "Benutzerdefinierte Symbolgröße";
-HIDE_LABELS = "Verstecke Symbolbeschriftungen";
-HIDE_LABEL_DOTS = "Verstecke Symbolpunkte";
-HIDE_ICON_TOUCH_OVERLAYS = "Verstecke Symbol Touch Overlays";
-FORCE_LEGACY = "Erzwinge Kompatiblität";
-CLEAR_ALTERNATIVE_ICONS = "Entferne alternative Symbole";
-FORCE_REFRESH = "Erzwinge Aktualisierung";
-ICON_OPTIONS = "Symboloptionen";
